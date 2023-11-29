@@ -1,0 +1,17 @@
+/* Filename - App.css */
+
+body {
+	background-color: rgb(240, 240, 240);
+}
+
+.tag {
+	text-align: center;
+}
+
+.slick-slide img {
+
+	margin: auto;
+	/* padding: 10%; */
+	/* width: 60%; */
+	/* height: 30%; */
+}
